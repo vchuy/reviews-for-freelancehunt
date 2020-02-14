@@ -1,0 +1,176 @@
+@media (min-width: 0px){
+.review .col-sm-push-6 {
+    left: 0;
+}
+.review .col-sm-pull-6 {
+    right: 0;
+}
+}
+@media (min-width: 768px){
+.review .col-sm-pull-6 {
+    right: 50%;
+}
+.review .col-sm-6 {
+    width: 50%;
+}
+.review .col-sm-push-6 {
+    left: 50%;
+}
+.review .col-sm-1, .review .col-sm-10, .review .col-sm-11, .review .col-sm-12, .review .col-sm-2, .review .col-sm-3, .review .col-sm-4, .review .col-sm-5, .review .col-sm-6, .review .col-sm-7, .review .col-sm-8, .review .col-sm-9 {
+    float: left;
+}
+}
+
+
+@media (min-width: 1200px){
+.review .col-lg-1, .review .col-lg-10, .review .col-lg-11, .review .col-lg-12, .review .col-lg-2, .review .col-lg-3, .review .col-lg-4, .review .col-lg-5, .review .col-lg-6, .review .col-lg-7, .review .col-lg-8, .review .col-lg-9 {
+    float: left;
+}
+.review .col-lg-4 {
+    width: 33.33333333%;
+}.review .col-lg-8 {
+    width: 66.66666667%;
+}
+
+.review .col-lg-push-8 {
+    left: 66.66666667%;
+}
+.review .col-lg-pull-4 {
+    right: 33.33333333%;
+}
+}
+
+
+
+
+.review .pull-right {
+    float: right;
+}
+.review .text-green {
+    color: #00ae5a;
+}
+body .review .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome !important;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.hreview.review{
+    width: 100%;
+    max-width: 840px;
+    display: block;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    border-left-width: 2px;
+    border-radius: 3px;
+}
+
+.hreview.review a {
+    color: #2173af;text-decoration: none;
+}
+.review .linkify-marker {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: manual;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+.review .text-dark-gray {
+    color: #777;
+}
+.review .vertical {
+    vertical-align: middle!important;
+}
+.review h1:not(.site-title):before, .review h2:before {
+display: none;	
+}
+.review  h2 {
+    line-height: 40px;
+}
+.review h2{
+    vertical-align: middle;
+    color: #555;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    font-size: 20px;
+}
+
+
+.review h1 .label, .review h2 .label, .review h3 .label {
+    font-size: 50%;
+    padding-top: .2em;
+}
+.review {
+    margin-top: 1em;
+    border: 1px solid #eee;
+    border-left-width: 2px;
+    border-radius: 3px;    font-size: 15px;
+    color: rgba(17,17,17,.85);
+    font-family: "PT Sans","Helvetica Neue",Arial,sans-serif!important;
+}
+.review-positive {
+    border-left-color: #00ae5a;
+}
+
+.review .color-dark-gray {
+    background: #999;
+    background-size: 100%;
+}
+
+.review .label-review {
+    font-size: 10px;
+}
+.review .label {
+    vertical-align: middle;    color: #fff;
+    text-align: center;    padding: .2em .6em;
+    line-height: 1.5;
+    white-space: nowrap;    display: inline;
+}
+
+.review .col-lg-1, .review .col-lg-10, .review .col-lg-11, .review .col-lg-12, .review .col-lg-2, .review .col-lg-3, .review .col-lg-4, .review .col-lg-5, .review .col-lg-6, .review .col-lg-7, .review .col-lg-8, .review .col-lg-9, .review .col-md-1, .review .col-md-10, .review .col-md-11, .review .col-md-12, .review .col-md-2, .review .col-md-3, .review .col-md-4, .review .col-md-5, .review .col-md-6, .review .col-md-7, .review .col-md-8, .review .col-md-9, .review .col-sm-1, .review .col-sm-10, .review .col-sm-11, .review .col-sm-12, .review .col-sm-2, .review .col-sm-3, .review .col-sm-4, .review .col-sm-5, .review .col-sm-6, .review .col-sm-7, .review .col-sm-8, .review .col-sm-9, .review .col-xs-1, .review .col-xs-10, .review .col-xs-11, .review .col-xs-12, .review .col-xs-2, .review .col-xs-3, .review .col-xs-4, .review .col-xs-5, .review .col-xs-6, .review .col-xs-7, .review .col-xs-8, .review .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.review .nowrap {
+    white-space: nowrap!important;
+}
+.review .img-rounded {
+    display: inline;
+    border-radius: 6px;
+    height: 25px;
+    width: auto;
+}
+
+.review .text-right {
+    text-align: right;
+}
+
+
+.review .label-default {
+    background-color: #777;
+}
+.review .opacity-75 {
+    opacity: .75;
+}
+.review .label-green {
+    background: #6eb056;
+    background-size: 120%;
+}
+.review abbr[data-original-title], .review abbr[title] {
+    cursor: help;
+    border-bottom: 1px dotted #777;
+    text-decoration: none;
+}
+
+

@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reviews freelancehunt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-11 18:22+0000\n"
+"PO-Revision-Date: 2018-12-11 20:26+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Loco-Version: 2.2.0; wp-5.0\n"
+"Last-Translator: \n"
+"Language: ru\n"
+
+#: index.php:222
+msgid "Communication"
+msgstr "Контактность"
+
+#: index.php:198
+msgid "Cost"
+msgstr "Стоимость"
+
+#: index.php:287
+msgid "Customer Rating:"
+msgstr "Рейтинг клиента:"
+
+#: index.php:22
+msgid "Freelancehunt Feedback Settings"
+msgstr "Настройки отзывов Freelancehunt"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.vchuy-develop.com/"
+msgstr ""
+
+#: index.php:47
+msgid "Main settings"
+msgstr "Основные параметры"
+
+#: index.php:287
+msgid "Position in the overall ranking:"
+msgstr "Место в общем рейтинге:"
+
+#: index.php:174
+msgid "Professionalism"
+msgstr "Профессионализм"
+
+#: index.php:289
+msgid "Project Description"
+msgstr "Описание Проекта"
+
+#: index.php:151
+msgid "Quality"
+msgstr "Качество"
+
+#. Name of the plugin
+msgid "Reviews freelancehunt"
+msgstr ""
+
+#: index.php:246
+msgid "Timing"
+msgstr "Сроки"
+
+#. Author of the plugin
+msgid "v.chuy"
+msgstr "v.chuy"
+
+#: index.php:49
+msgid "Your id"
+msgstr "Ваш id"
+
+#: index.php:50
+msgid "Your secret key"
+msgstr "Секретный ключ"
+
+#. Description of the plugin
+msgid "Плагин для отображения отзывов о фрилансере"
+msgstr ""
