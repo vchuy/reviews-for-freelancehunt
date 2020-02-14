@@ -50,7 +50,7 @@ Do you have questions or issues with Reviews for freelancehunt? Use these suppor
 
 1. [Docs](https://www.vchuy-develop.com/otzyvy-o-frilansere-s-freelancehunt-com/)
 
-[Support](https://www.vchuy-develop.com/en/contact-us-2/)
+[Support](https://www.vchuy-develop.com/en/)
 
 == Screenshots ==
 
