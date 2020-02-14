@@ -3,9 +3,9 @@ Contributors: v.chuy
 Donate link: https://www.vchuy-develop.com/donat/
 Tags: Reviews for freelancehunt, multilingual, feedback, freelancehunt.com 
 Requires at least: 2.3
-Tested up to: 5.0
-Requires PHP: 5.4
-Stable tag: 1.00
+Tested up to: 5.3.2
+Requires PHP: 5.6
+Stable tag: 2.00
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,6 +14,9 @@ Plugin to display reviews from the freelancehunt.com website on your website pag
 == Description ==
 
 Plugin to display reviews from the freelancehunt.com website on your website page.
+
+Add compatible with api 2.0
+
 
 
 = Field types include: =
@@ -59,8 +62,15 @@ Do you have questions or issues with Reviews for freelancehunt? Use these suppor
 = 1.00 =
 * First version
 
+= 2.00 =
+* Compatible with api 2.0
+
 
 == Upgrade Notice ==
 
 = 1.0 =
 Initial release
+
+= 2.00 =
+* Compatible with api 2.0
+

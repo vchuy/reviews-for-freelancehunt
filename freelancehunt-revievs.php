@@ -5,7 +5,7 @@
  * Plugin URI:  https://www.vchuy-develop.com/otzyvy-o-frilansere-s-freelancehunt-com/
  * Author URI:  https://www.vchuy-develop.com/
  * Author:      v.chuy
- * Version:      1.0
+ * Version:      2.0
  *
  * Text Domain: huntrewievs
  * Domain Path: /languages
