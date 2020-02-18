@@ -5,7 +5,7 @@ Tags: Reviews for freelancehunt, multilingual, feedback, freelancehunt.com
 Requires at least: 2.3
 Tested up to: 5.3.2
 Requires PHP: 5.6
-Stable tag: 2.00
+Stable tag: 2.40
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ Do you have questions or issues with Reviews for freelancehunt? Use these suppor
 = 2.00 =
 * Compatible with api 2.0
 
+= 2.40 =
+* Add shema review markup
+
 
 == Upgrade Notice ==
 
@@ -74,3 +77,5 @@ Initial release
 = 2.00 =
 * Compatible with api 2.0
 
+= 2.40 =
+* Add shema review markup
